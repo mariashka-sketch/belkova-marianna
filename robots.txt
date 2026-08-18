@@ -26,5 +26,5 @@ Allow: /
 User-agent: YandexAdditional
 Allow: /
 
-Host: https://marianna-belkova.com
-Sitemap: https://marianna-belkova.com/sitemap.xml
+Host: https://belkova-marianna.com
+Sitemap: https://belkova-marianna.com/sitemap.xml
